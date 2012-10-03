@@ -5,5 +5,4 @@ another test
 
 this time it's *good*
 
-
-try to make it fail...
+(I hope!)
